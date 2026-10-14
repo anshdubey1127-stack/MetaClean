@@ -6,7 +6,7 @@ A lightweight Python tool that strips sensitive hidden metadata (EXIF data, GPS 
 
 ## Features
 
-- **Image Cleaning:** Removes EXIF, GPS location, camera details, and timestamps from `.jpg`, `.jpeg`, `.png`, `.bmp`, and `.webp` files.
+- **Image Cleaning:** Removes EXIF, GPS location, camera details, and timestamps from `.jpg`, `.jpeg`, `.png`, `.bmp`, and `.webp` files
 - **PDF Cleaning:** Clears standard document info dictionaries (Author, Title, Subject, Creator) and XMP metadata streams.
 - **Batch Processing:** Clean an entire directory of files in one command.
 - **Safe Outputs:** Generates a new file with `_cleaned` appended to the name, leaving your original files untouched.
