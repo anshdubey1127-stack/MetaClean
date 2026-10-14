@@ -1,6 +1,6 @@
 # Metadata Cleaner (Images & PDFs)
 
-A lightweight Python tool that strips sensitive hidden metadata (EXIF data, GPS coordinates, author details, device models, and editing software) from images and PDF files without altering their visual contents.
+A lightweight Python tool that strips sensitive hidden metadata (EXIF data, GPS coordinates, author details, device models, and editing software) from images and PDF file without altering their visual contents.
 
 ---
 
